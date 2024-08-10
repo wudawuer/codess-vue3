@@ -1,4 +1,3 @@
-<!-- custom -->
 ## css
 #### css.vue
 ```vue

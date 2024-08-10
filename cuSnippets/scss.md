@@ -1,4 +1,3 @@
-<!-- custom -->
 ## scss
 #### scss.vue
 ```vue
